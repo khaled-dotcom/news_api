@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//fhghjkghdjggsdg
 class MQuery {
   static double width;
   static double height;
